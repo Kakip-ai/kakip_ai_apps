@@ -1,0 +1,3 @@
+[submodule "3rdparty/rzv_drp-ai_tvm"]
+	path = 3rdparty/rzv_drp-ai_tvm
+	url = https://github.com/renesas-rz/rzv_drp-ai_tvm
